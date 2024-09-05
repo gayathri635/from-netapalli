@@ -9,3 +9,8 @@ I like badminton for it's physical speed that requires **speed**, tactics, obser
 1. PV Sindhu
 2. Pullela Gopichand
 3. Saina Nehwal
+
+The places that I like to play the sport
+* Banglore
+* Hyderabad
+* Mumbai
