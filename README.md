@@ -38,3 +38,17 @@ These are the 4 different restaurants that I would like to try some day.
 > I intend to live forever. So far, so good.
 
 **Author:** *Steven Wright*
+
+----------
+
+### Code Snippet
+
+The `Assert` Node.js example below uses the assert module to provide a set of assertion functions for verifying invariants.
+
+```
+const assert = require('assert');
+
+assert(5 > 7);
+```
+
+Quicklink to the code <https://code.pieces.app/collections/node-js>
