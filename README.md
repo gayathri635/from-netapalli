@@ -29,3 +29,12 @@ These are the 4 different restaurants that I would like to try some day.
 | Sukiyabashi Jiro | Renowned sushi restaurant in Tokyo with three Michelin stars | Japan | 
 | Pujol | Upscale Mexican cuisine with a modern twist in Mexico City | Mexico  |
 | Indian Accent | Contemporary take on traditional Indian dishes in New Delhi | India |
+
+---------
+
+### Humorous quotes
+> I'm writing a book. I've got the page numbers done.
+>
+> I intend to live forever. So far, so good.
+
+**Author:** *Steven Wright*
